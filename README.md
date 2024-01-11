@@ -1,40 +1,35 @@
 # ModelEmbedderDistillation
 
-## О проекте
-`ModelEmbedderDistillation` - это проект, направленный на дистилляцию сложных моделей встраивания (например, Sbert, E5) для упрощения и повышения эффективности их использования в различных приложениях машинного обучения.
+## About the Project
+`ModelEmbedderDistillation` is a project focused on distilling complex embedding models (such as Sbert, E5) to simplify and enhance their efficiency for use in various machine learning applications.
 
-## Особенности
+## Features
 
-- **Дистилляция Sbert**: Процесс упрощения модели Sbert для оптимизации производительности без значительной потери точности.
-- **Дистилляция Sbert с Декомпозицией Слоев**: Расширенный метод дистилляции, который включает в себя декомпозицию слоев модели для более глубокой оптимизации.
-- **C# Версия на Базе AI Framework**: Реализация вышеупомянутых методов дистилляции в C#, с использованием AI Framework для легкой интеграции в .NET проекты.
+- **Sbert Distillation**: The process of simplifying the Sbert model to optimize performance without significant loss of accuracy.
+- **Sbert Distillation with Layer Decomposition**: An advanced distillation method that includes the decomposition of model layers for deeper optimization.
+- **C# Version Based on AI Framework**: Implementation of the aforementioned distillation methods in C#, using the AI Framework for easy integration into .NET projects.
 
-## Начало работы
+## Getting Started
 
-Для начала работы с `ModelEmbedderDistillation`, клонируйте репозиторий и следуйте инструкциям в разделе установки.
+To get started with `ModelEmbedderDistillation`, clone the repository and follow the instructions in the installation section.
 
+## Roadmap
 
+| Stage                                         | Tasks                              | Status                |
+| --------------------------------------------- | ---------------------------------- | --------------------- |
+| **Sbert Distillation**                        | Researching distillation methods   | 🟢 Completed          |
+| **Distillation with Layer Decomposition**     | Developing decomposition method    | 🟡 In Progress        |
+| **C# Version Based on [AI Framework](https://github.com/AIFramework/AIFrameworkOpen)** | Transferring algorithms to C#      | 🟡 In Progress        |
+|                                               | Integrating with AI Framework      | 🟡 In Progress        |
+| **Optimization and Expansion**                | Performance optimization           | 🔴 Not Started        |
+|                                               | Supporting additional models       | 🔴 Not Started        |
+| **Documentation and Examples**                | Developing documentation           | 🔴 Not Started        |
+|                                               | Creating usage examples            | 🔴 Not Started        |
 
-## Дорожная карта
+## Models
 
-| Этап                                         | Задачи                           | Статус                |
-| -------------------------------------------- | -------------------------------- | --------------------- |
-| **Дистилляция Sbert**                        | Исследование методов дистилляции | 🟢 Завершена          |
-| **Дистилляция с Декомпозицией Слоев**        | Разработка метода декомпозиции   | 🟡 В процессе         |
-| **C# Версия на базе [AI Framework](https://github.com/AIFramework/AIFrameworkOpen)**           | Перенос алгоритмов в C#          | 🟡 В процессе         |
-|                                              | Интеграция с AI Framework        | 🟡 В процессе         |
-| **Оптимизация и Расширение**                 | Оптимизация производительности   | 🔴 Не начато          |
-|                                              | Поддержка дополнительных моделей | 🔴 Не начато          |
-| **Документация и Примеры**                   | Разработка документации          | 🔴 Не начато          |
-|                                              | Создание примеров использования  | 🔴 Не начато          |
+...
 
+## License
 
-## Модели
-
-
-
-
-
-## Лицензия
-
-* Этот проект распространяется под лицензией [Apache 2.0](https://github.com/FractalGPT/ModelEmbedderDistilation/blob/main/LICENSE). Подробности смотрите в файле LICENSE.
+* This project is distributed under the [Apache 2.0 License](https://github.com/FractalGPT/ModelEmbedderDistilation/blob/main/LICENSE). See the LICENSE file for more details.
