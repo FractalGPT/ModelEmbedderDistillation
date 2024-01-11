@@ -31,8 +31,7 @@
 
 ## Модели
 
-
-
+* Дистиллированный SBERT [FractalGPT/SberDistil](https://huggingface.co/FractalGPT/SberDistil)
 
 
 ## Лицензия
