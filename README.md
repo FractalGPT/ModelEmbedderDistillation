@@ -28,7 +28,7 @@ To get started with `ModelEmbedderDistillation`, clone the repository and follow
 
 ## Models
 
-...
+* Дистиллированный SBERT [FractalGPT/SberDistil](https://huggingface.co/FractalGPT/SberDistil)
 
 ## License
 
