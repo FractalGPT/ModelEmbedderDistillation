@@ -29,6 +29,8 @@ To get started with `ModelEmbedderDistillation`, clone the repository and follow
 ## Models
 
 * Distilled SBERT [FractalGPT/SbertDistil](https://huggingface.co/FractalGPT/SbertDistil)
+  * Run example in Collab:<a target="_blank" href="https://colab.research.google.com/drive/1m3fyh632htPs9UiEu4_AkQfrUtjDqIQq?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
 
 ## License
 
