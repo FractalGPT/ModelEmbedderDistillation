@@ -35,6 +35,6 @@
 
 
 
-# Лицензия
+## Лицензия
 
 * Этот проект распространяется под лицензией [Apache 2.0](https://github.com/FractalGPT/ModelEmbedderDistilation/blob/main/LICENSE). Подробности смотрите в файле LICENSE.
