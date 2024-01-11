@@ -23,8 +23,8 @@ To get started with `ModelEmbedderDistillation`, clone the repository and follow
 |                                               | Integrating with AI Framework      | 🟡 In Progress        |
 | **Optimization and Expansion**                | Performance optimization           | 🔴 Not Started        |
 |                                               | Supporting additional models       | 🔴 Not Started        |
-| **Documentation and Examples**                | Developing documentation           | 🔴 Not Started        |
-|                                               | Creating usage examples            | 🔴 Not Started        |
+| **Documentation and Examples**                | Developing documentation           | 🟡 In Progress        |
+|                                               | Creating usage examples            | 🟡 In Progress       |
 
 ## Models
 
