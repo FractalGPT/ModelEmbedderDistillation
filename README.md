@@ -1,4 +1,4 @@
-# ModelEmbedderDistillation
+# ModelEmbedderDistillation [RUS](https://github.com/FractalGPT/ModelEmbedderDistilation/blob/main/README_RUS.md)
 
 ## About the Project
 `ModelEmbedderDistillation` is a project focused on distilling complex embedding models (such as Sbert, E5) to simplify and enhance their efficiency for use in various machine learning applications.
