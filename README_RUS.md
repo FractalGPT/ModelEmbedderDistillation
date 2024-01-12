@@ -20,7 +20,7 @@
 | Этап                                         | Задачи                           | Статус                |
 | -------------------------------------------- | -------------------------------- | --------------------- |
 | **Дистилляция Sbert**                        | Исследование методов дистилляции | 🟢 Завершена          |
-| **Дистилляция с Декомпозицией Слоев**        | Разработка метода декомпозиции   | 🟡 В процессе         |
+| **Дистилляция с Декомпозицией Слоев**        | Разработка метода декомпозиции   | 🟢 Завершена       |
 | **C# Версия на базе [AI Framework](https://github.com/AIFramework/AIFrameworkOpen)**           | Перенос алгоритмов в C#          | 🟡 В процессе         |
 |                                              | Интеграция с AI Framework        | 🟡 В процессе         |
 | **Оптимизация и Расширение**                 | Оптимизация производительности   | 🔴 Не начато          |
@@ -33,6 +33,9 @@
 
 * Дистиллированный SBERT [FractalGPT/SberDistil](https://huggingface.co/FractalGPT/SberDistil)
   * Запустить пример на Colab: <a target="_blank" href="https://colab.research.google.com/drive/1m3fyh632htPs9UiEu4_AkQfrUtjDqIQq?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  
+* Дистиллированный SBERT с применением SVD разложения: [FractalGPT/SbertSVDDistil](https://huggingface.co/FractalGPT/SbertSVDDistil)
+  * Запустить пример на Colab: <a target="_blank" href="https://colab.research.google.com/drive/1R9hHbEpyGEYO5Nw3p5VWTc-bny3PqiZs?hl"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## Лицензия
