@@ -18,7 +18,7 @@ To get started with `ModelEmbedderDistillation`, clone the repository and follow
 | Stage                                         | Tasks                              | Status                |
 | --------------------------------------------- | ---------------------------------- | --------------------- |
 | **Sbert Distillation**                        | Researching distillation methods   | 🟢 Completed          |
-| **Distillation with Layer Decomposition**     | Developing decomposition method    | 🟡 In Progress        |
+| **Distillation with Layer Decomposition**     | Developing decomposition method    | 🟢 Completed         |
 | **C# Version Based on [AI Framework](https://github.com/AIFramework/AIFrameworkOpen)** | Transferring algorithms to C#      | 🟡 In Progress        |
 |                                               | Integrating with AI Framework      | 🟡 In Progress        |
 | **Optimization and Expansion**                | Performance optimization           | 🔴 Not Started        |
@@ -30,6 +30,8 @@ To get started with `ModelEmbedderDistillation`, clone the repository and follow
 
 * Distilled SBERT [FractalGPT/SbertDistil](https://huggingface.co/FractalGPT/SbertDistil)
   * Run example in Collab: <a target="_blank" href="https://colab.research.google.com/drive/1m3fyh632htPs9UiEu4_AkQfrUtjDqIQq?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Distilled SBERT with SVD [FractalGPT/SbertSVDDistil](https://huggingface.co/FractalGPT/SbertSVDDistil)
+  * Run example in Collab: <a target="_blank" href="https://colab.research.google.com/drive/1R9hHbEpyGEYO5Nw3p5VWTc-bny3PqiZs"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## License
 
