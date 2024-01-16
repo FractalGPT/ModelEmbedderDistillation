@@ -13,14 +13,14 @@
 
 To get started with `ModelEmbedderDistillation`, clone the repository and follow the instructions in the installation section.
 
-## Roadmap
+## Roadmap SBert
 
 | Stage                                         | Tasks                              | Status                |
 | --------------------------------------------- | ---------------------------------- | --------------------- |
 | **Sbert Distillation**                        | Researching distillation methods   | 🟢 Completed          |
 | **Distillation with Layer Decomposition**     | Developing decomposition method    | 🟢 Completed         |
-| **C# Version Based on [AI Framework](https://github.com/AIFramework/AIFrameworkOpen)** | Transferring algorithms to C#      | 🟡 In Progress        |
-|                                               | Integrating with AI Framework      | 🟡 In Progress        |
+| **C# Version Based on [AI Framework](https://github.com/AIFramework/AIFrameworkOpen)** | Transferring algorithms to C#      | 🟢 Completed        |
+|                                               | Integrating with AI Framework      | 🟢 Completed        |
 | **Optimization and Expansion**                | Performance optimization           | 🔴 Not Started        |
 |                                               | Supporting additional models       | 🔴 Not Started        |
 | **Documentation and Examples**                | Developing documentation           | 🟡 In Progress        |
@@ -32,6 +32,7 @@ To get started with `ModelEmbedderDistillation`, clone the repository and follow
   * Run example in Collab: <a target="_blank" href="https://colab.research.google.com/drive/1m3fyh632htPs9UiEu4_AkQfrUtjDqIQq?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * Distilled SBERT with SVD [FractalGPT/SbertSVDDistil](https://huggingface.co/FractalGPT/SbertSVDDistil)
   * Run example in Collab: <a target="_blank" href="https://colab.research.google.com/drive/1R9hHbEpyGEYO5Nw3p5VWTc-bny3PqiZs"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Ported model for use in C# [FractalGPT/SbertDistilAIFr](https://huggingface.co/FractalGPT/SbertDistilAIFr)
 
 ## License
 
