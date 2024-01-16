@@ -21,8 +21,8 @@ To get started with `ModelEmbedderDistillation`, clone the repository and follow
 | **Distillation with Layer Decomposition**     | Developing decomposition method    | 🟢 Completed         |
 | **C# Version Based on [AI Framework](https://github.com/AIFramework/AIFrameworkOpen)** | Transferring algorithms to C#      | 🟢 Completed        |
 |                                               | Integrating with AI Framework      | 🟢 Completed        |
-| **Optimization and Expansion**                | Performance optimization           | 🔴 Not Started        |
-|                                               | Supporting additional models       | 🔴 Not Started        |
+| **Optimization and Expansion**                | Performance optimization           | 🟡 In Progress        |
+|                                               | Supporting additional models       | 🟡 In Progress         |
 | **Documentation and Examples**                | Developing documentation           | 🟡 In Progress        |
 |                                               | Creating usage examples            | 🟡 In Progress       |
 
