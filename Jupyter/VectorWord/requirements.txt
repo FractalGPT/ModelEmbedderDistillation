@@ -1,0 +1,16 @@
+# torch ставится отдельно, под версию CUDA вашего драйвера (nvidia-smi → "CUDA Version"):
+#   драйвер с CUDA 12.1:  pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+#   драйвер с CUDA 12.6+: pip install torch --index-url https://download.pytorch.org/whl/cu126
+# Версии ниже проверены с torch 2.5.1. С новым torch можно снять ограничения transformers и datasets.
+transformers==4.46.3
+datasets>=3,<4
+huggingface_hub
+numpy
+scipy
+pandas
+matplotlib
+jupyter
+# необязательно: леммы, разбиение на предложения, NER
+pymorphy3
+razdel
+natasha

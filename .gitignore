@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Кеши векторов, датасетов и моделей
+cache/
+**/cache/
+.cache/
+hf_cache/
+*.pkl
+*.npy
+*.npz
+*.pt
+*.safetensors
+*.onnx
+
+# IDE и ОС
+.vscode/
+.idea/
+.vs/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Сборка C#
+bin/
+obj/
+*.user
+*.suo
